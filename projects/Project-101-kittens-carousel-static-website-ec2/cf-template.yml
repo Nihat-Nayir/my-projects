@@ -1,14 +1,14 @@
 AWSTemplateFormatVersion: 2010-09-09
 Description: This template creates an EC2 instance to run static web site with Apache web server
 Resources:
-  MustafaCFInstance: 
+  NihatCFInstance: 
     Type: AWS::EC2::Instance
     Properties:
-      ImageId: ami-02354e95b39ca8dec
+      ImageId:  ami-05fa00d4c63e32376
       InstanceType: t2.micro
       KeyName: secure
       SecurityGroups:
-        - mustafa-cf-sg
+        - nihatec2
       Tags:
         - Key: Name
           Value: Web server of Kittens Carousel
