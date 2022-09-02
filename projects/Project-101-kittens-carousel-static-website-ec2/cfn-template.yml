@@ -26,8 +26,4 @@ Resources:
           wget https://raw.githubusercontent.com/Nihat-Nayir/my-projects/main/projects/Project-101-kittens-carousel-static-website-ec2/static-web/cat0.jpg
           wget https://raw.githubusercontent.com/Nihat-Nayir/my-projects/main/projects/Project-101-kittens-carousel-static-website-ec2/static-web/cat1.jpg
           wget https://raw.githubusercontent.com/Nihat-Nayir/my-projects/main/projects/Project-101-kittens-carousel-static-website-ec2/static-web/cat2.jpg
-<<<<<<< HEAD
           wget https://raw.githubusercontent.com/Nihat-Nayir/my-projects/main/projects/Project-101-kittens-carousel-static-website-ec2/static-web/cat3.png
-=======
-          wgwt https://raw.githubusercontent.com/Nihat-Nayir/my-projects/main/projects/Project-101-kittens-carousel-static-website-ec2/static-web/cat3.png
->>>>>>> 2bf2a90583314a68093d772038e72de4c2c5b13a
